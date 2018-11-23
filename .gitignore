@@ -1,0 +1,11 @@
+_generated/*.pdf
+
+*.aux
+*.bib
+*.log
+*.toc
+*.bbl
+*.blg
+x.pdf
+
+*.bat
